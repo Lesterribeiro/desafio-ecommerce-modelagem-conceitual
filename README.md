@@ -1,6 +1,6 @@
 Refinando um Projeto Conceitual de Banco de Dados – E-commerce
-Descrição
-Projeto desenvolvido como desafio da Formação SQL Database Specialist.
+
+Descrição Projeto desenvolvido como desafio da Formação SQL Database Specialist.
 
 O objetivo consiste em refinar um modelo conceitual de E-commerce adicionando novas regras de negócio relacionadas a clientes, pagamentos e entregas.
 
