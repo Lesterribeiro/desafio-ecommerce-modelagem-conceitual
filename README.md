@@ -28,7 +28,8 @@ Cada pedido possui uma entrega.
 Cada pedido possui histórico de alterações de status.
 Modelo Conceitual
 DER E-commerce
-A imagem do modelo conceitual encontra-se na pasta docs. <img width="563" height="470" alt="image" src="https://github.com/user-attachments/assets/1d77dc1e-7306-4280-a6aa-0fa551148829" />
+A imagem do modelo conceitual encontra-se na pasta docs. <img width="1542" height="972" alt="image" src="https://github.com/user-attachments/assets/a95c33ad-c5a8-4400-852d-ebfcee78ac73" />
+
 
 
 Tecnologias Utilizadas
