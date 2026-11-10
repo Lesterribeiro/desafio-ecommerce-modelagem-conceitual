@@ -27,6 +27,7 @@ Um produto pode participar de vários pedidos.
 Cada pedido possui uma entrega.
 Cada pedido possui histórico de alterações de status.
 Modelo Conceitual
+DER E-commerce
 A imagem do modelo conceitual encontra-se na pasta docs.
 
 Tecnologias Utilizadas
